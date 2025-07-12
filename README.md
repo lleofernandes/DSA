@@ -3,7 +3,6 @@
 Repositório criado para acompanhar meu progresso nos estudos de Ciência de Dados, do curso da [Data Science Academy](https://www.datascienceacademy.com.br/).
 
 ## 📁 Estrutura de Pastas
-```plaintext
 DSA/
 ├── .venv/                                     # Ambiente Virtual
 ├── 01_math_statistics_ds_ml_ia/               # Módulo 1 - Matemática e Estatística Aplicada para Data Science Machine Learning e IA
@@ -14,6 +13,7 @@ DSA/
 ├── README.md
 └── requirements.txt                           # Pacotes instalados nos projetos
 
+--- 
 ## 📚 Módulos Estudados
 
 | Módulo | Descrição                                                    | Status          |
