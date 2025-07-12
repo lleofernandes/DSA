@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "01_matematica_estatistica_ds_ml_ia"
+		}
+	],
+	"settings": {
+		"python.defaultInterpreterPath": ".venv/Scripts/python.exe"
+	}
+}
