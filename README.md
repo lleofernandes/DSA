@@ -3,7 +3,6 @@
 Repositório criado para acompanhar meu progresso nos estudos de Ciência de Dados, do curso da [Data Science Academy](https://www.datascienceacademy.com.br/).
 
 ## 📁 Estrutura de Pastas
-```plaintext
 DSA/
 ├── .venv/                           # Ambiente virtual (ignorado pelo Git)
 ├── 01_math_statistics_ds_ml_ia/     # Módulo 1 - Fundamentos Matemáticos
