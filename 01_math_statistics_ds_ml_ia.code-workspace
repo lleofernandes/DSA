@@ -1,11 +1,10 @@
 {
 	"folders": [
-		{
-			// "path": "."
+		{			
 			"path": "01_math_statistics_ds_ml_ia"
 		}
 	],
 	"settings": {
-		"python.defaultInterpreterPath": ".venv/Scripts/python.exe"
+		"python.defaultInterpreterPath": "${workspaceFolder}/../.venv/Scripts/python.exe"
 	}
 }
